@@ -56,3 +56,7 @@ docs/_build/
 # PyBuilder
 target/
 *.swp
+node_modules/
+static/public/
+static/bower_components
+static/.webassets-cache/
